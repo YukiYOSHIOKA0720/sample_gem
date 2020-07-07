@@ -1,5 +1,5 @@
 #include <stdio.h>
-void Init_ext_example()
+void Init_sample_gem()
 {
   puts("Hello World!");
 }
