@@ -1,5 +1,5 @@
 #include <stdio.h>
-void Init_sample_gem()
+void Init_yoshioka_gem()
 {
   puts("Hello World!");
 }

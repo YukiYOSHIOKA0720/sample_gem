@@ -4,8 +4,8 @@ require "rake/extensiontask"
 
 RSpec::Core::RakeTask.new(:spec)
 
-Rake::ExtensionTask.new("sample_gem") do |ext|
-    ext.lib_dir = "lib/sample_gem"
+Rake::ExtensionTask.new("yoshioka_gem") do |ext|
+    ext.lib_dir = "lib/yoshioka_gem"
 end
 
 task :default => :spec

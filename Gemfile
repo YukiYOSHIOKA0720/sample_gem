@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in sample_gem.gemspec
+# Specify your gem's dependencies in yoshioka_gem.gemspec
 gemspec
 
 gem "rake", "~> 12.0"
